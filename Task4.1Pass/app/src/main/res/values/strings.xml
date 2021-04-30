@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkoutTimerApp</string>
+    <string name="enter_your_workout_type">Enter Your Workout Type</string>
+    <string name="zero">00:00:00</string>
+</resources>
